@@ -535,7 +535,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
-    <None Include="Resources\Credencial.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
