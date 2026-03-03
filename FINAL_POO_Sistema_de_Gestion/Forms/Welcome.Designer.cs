@@ -44,7 +44,7 @@
             this.lblEstadoDatos.Name = "lblEstadoDatos";
             this.lblEstadoDatos.Size = new System.Drawing.Size(148, 16);
             this.lblEstadoDatos.TabIndex = 0;
-            this.lblEstadoDatos.Text = "Datos Leidos de JSON:";
+            this.lblEstadoDatos.Text = "";
             // 
             // lblCargado
             // 
